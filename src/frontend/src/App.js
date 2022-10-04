@@ -10,7 +10,7 @@ import {
     Button,
     Badge,
     Avatar,
-    Radio
+    Radio, Divider
 } from 'antd';
 import {
     DesktopOutlined,
