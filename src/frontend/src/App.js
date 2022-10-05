@@ -212,6 +212,7 @@ function App() {
             <Footer style={{textAlign: 'center'}}>Youssef Benihoud with Amigoscode Course
                 <Divider>
                     <a
+                        rel="noreferrer"
                         target={"_blank"}
                         href={"https://www.t.me/youssefbenihoud"}>
                         Click here to contact me on Telegram!
