@@ -213,7 +213,7 @@ function App() {
                     rel="noopener noreferrer"
                     target="_blank"
                    href={"https://t.me/youssefbenihoud"}>
-
+                    Contact me on Telegram!
                </a>
             </Divider>
             </Footer>
