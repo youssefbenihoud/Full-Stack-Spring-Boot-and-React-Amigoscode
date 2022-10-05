@@ -9,7 +9,7 @@ import {
     Empty,
     Button,
     Badge,
-    Avatar
+    Avatar, Divider
 } from 'antd';
 import {
     DesktopOutlined,
@@ -207,7 +207,16 @@ function App() {
                     {renderStudents()}
                 </div>
             </Content>
-            <Footer style={{textAlign: 'center'}}>Youssef Benihoud with Amigoscode Course</Footer>
+            <Footer style={{textAlign: 'center'}}>Youssef Benihoud with Amigoscode Course
+            <Divider>
+                <a
+                    rel="noopener noreferrer"
+                    target="_blank"
+                   href={"https://t.me/youssefbenihoud"}>
+                    Contact me on Telegram!
+               </a>
+            </Divider>
+            </Footer>
         </Layout>
     </Layout>
 }
